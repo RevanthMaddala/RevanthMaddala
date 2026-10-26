@@ -18,10 +18,10 @@ I build REST back ends with **Java, Spring Boot and Hibernate/JPA** on **Postgre
 | Project | What it is | Stack |
 |---|---|---|
 | **[Courier Logistics Tracking System](https://github.com/RevanthMaddala/courier-logistics-tracking-system)** · [frontend](https://github.com/RevanthMaddala/courier-logistics-frontend) | Full-stack courier management app. Covers shipments, warehouses, delivery agents, payments and public tracking by tracking number. Enforces a shipment status lifecycle and uses optimistic locking, Flyway migrations, and unit plus integration tests. The React dashboard has a live tracking timeline. | Java 8, Spring Boot 2.7, Spring Data JPA, PostgreSQL, Flyway, JUnit 5, Mockito, Docker, React 18 |
-| **[Bank Service](https://github.com/RevanthMaddala/bank-service)** | REST API for banks, branches and customer accounts. Supports deposits and withdrawals, validation and pagination. Uses a layered Controller / Service / Repository design, documented with Swagger. | Java 21, Spring Boot 3, Spring Data JPA, PostgreSQL, Docker |
-| **[Books API](https://github.com/RevanthMaddala/books-api)** | CRUD REST API for a book library, with bulk inserts and partial (PATCH) updates. | Java 21, Spring Boot, Hibernate/JPA, PostgreSQL |
 | **[SmartShop](https://github.com/RevanthMaddala/AIEcommerceApp)** (final-year project) | Cross-platform AI shopping assistant. Describe what you want in plain English, and an AI agent searches several stores in parallel, then streams back ranked picks with live prices. | React Native (Expo), TypeScript, Node.js, LLM APIs |
 | **[Relay Chat](https://github.com/RevanthMaddala/RealTimeChatApplication)** | Real-time chat with channels, DMs, presence and file sharing. JWT auth with rotating refresh tokens. | React, Node/Express, Socket.io, JWT |
+
+🧪 **Java practice projects:** [Bank Service](https://github.com/RevanthMaddala/bank-service) · [Books API](https://github.com/RevanthMaddala/books-api), Spring Boot REST APIs
 
 ---
 
