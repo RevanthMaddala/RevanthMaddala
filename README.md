@@ -1,3 +1,5 @@
+<img src="assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" align="right" />
+
 ### Hi, I'm Revanth Maddala 👋
 
 **Java Full Stack Developer** · B.Tech CSE '26, GVP College of Engineering, Visakhapatnam · ☁️ AWS Certified Cloud Practitioner
