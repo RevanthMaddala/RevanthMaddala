@@ -6,7 +6,8 @@
 
 I build REST back ends with **Java, Spring Boot and Hibernate/JPA** on **PostgreSQL**, and front ends with **React**. I completed a 6-month intensive Java full-stack program, interned as a web developer, and have solved 300+ DSA problems on LeetCode and Codeforces.
 
-- 🔭 Currently building **[SmartShop](https://github.com/RevanthMaddala/AIEcommerceApp)**, an AI shopping assistant that compares live prices across stores (my final-year project)
+- 🎓 Final-year project: **[SmartShop](https://github.com/RevanthMaddala/AIEcommerceApp)**, an AI shopping assistant that compares live prices across stores
+- 🔭 Currently building more Java / Spring Boot projects
 - 🎯 Looking for **Java developer / Java full-stack** roles
 - 🤖 I use AI tools like Claude Code, Codex, Gemini and ChatGPT in my day-to-day development
 - 📫 [LinkedIn](https://linkedin.com/in/revanth-maddala) · revanthmaddala5@gmail.com
