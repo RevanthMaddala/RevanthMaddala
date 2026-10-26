@@ -1,8 +1,8 @@
-<img src="assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" align="right" />
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/915b06001b2d4e66a41f68cc94e0acf4"><img src="assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" align="right" /></a>
 
 ### Hi, I'm Revanth Maddala 👋
 
-**Java Full Stack Developer** · B.Tech CSE '26, GVP College of Engineering, Visakhapatnam · ☁️ AWS Certified Cloud Practitioner
+**Java Full Stack Developer** · B.Tech CSE '26, GVP College of Engineering, Visakhapatnam · ☁️ [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/915b06001b2d4e66a41f68cc94e0acf4)
 
 I build REST back ends with **Java, Spring Boot and Hibernate/JPA** on **PostgreSQL**, and front ends with **React**. I completed a 6-month intensive Java full-stack program, interned as a web developer, and have solved 300+ DSA problems on LeetCode and Codeforces.
 
