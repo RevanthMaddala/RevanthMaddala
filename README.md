@@ -7,7 +7,7 @@
 I build REST back ends with **Java, Spring Boot and Hibernate/JPA** on **PostgreSQL**, and front ends with **React**. I completed a 6-month intensive Java full-stack program, interned as a web developer, and have solved 300+ DSA problems on LeetCode and Codeforces.
 
 - 🔭 Currently building full-stack projects with Java / Spring Boot and React, and getting hands-on with AI projects
-- 🎯 Looking for **Java developer / Java full-stack** roles
+- 🎯 Looking for **Java developer / Java full-stack** roles in **Bangalore** or **Hyderabad**
 - 🤖 I use AI tools like Claude Code, Codex, Gemini and ChatGPT in my day-to-day development
 - 📫 [LinkedIn](https://linkedin.com/in/revanth-maddala) · revanthmaddala5@gmail.com
 
